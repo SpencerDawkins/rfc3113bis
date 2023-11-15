@@ -29,7 +29,7 @@ author:
     fullname: Spencer Dawkins
     organization: Tencent America LLC
     email: spencerdawkins.ietf@gmail.com
-    role: Editor
+    role: editor
 
 normative:
 
