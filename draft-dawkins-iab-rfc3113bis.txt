@@ -26,7 +26,7 @@ About This Document
    found at https://datatracker.ietf.org/doc/draft-dawkins-iab-
    rfc3113bis/.
 
-   Discussion of this document takes place on the 3GPP-IETF Coordination
+   Discussion of this document takes place on the 3GPP IETF Coordination
    Working Group mailing list (mailto:3gpp-ietf-coord@ietf.org), which
    is archived at https://www.ietf.org/mailman/listinfo/3gpp-ietf-coord.
    Subscribe at https://www.ietf.org/mailman/listinfo/3gpp-ietf-coord/.
