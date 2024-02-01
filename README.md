@@ -4,9 +4,9 @@ This is the working area for the individual Internet-Draft, "3GPP-IETF Standardi
 
 * [Editor's Copy](https://SpencerDawkins.github.io/rfc3113bis/#go.draft-dawkins-iab-rfc3113bis.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-dawkins-iab-rfc3113bis)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-dawkins-iab-rfc3113bis)
-* [Compare Editor's Copy to Individual Draft](https://SpencerDawkins.github.io/rfc3113bis/#go.draft-dawkins-iab-rfc3113bis.diff)
-
+* [Draft version in datatracker](https://datatracker.ietf.org/doc/html/draft-dawkins-iab-rfc3113bis)
+* [Compare Editor's Copy to draft version in datatracker](https://SpencerDawkins.github.io/rfc3113bis/#go.draft-dawkins-iab-rfc3113bis.diff)
+* [Compare Editor's Copy to RFC 3113](https://author-tools.ietf.org/iddiff?url1=https://www.rfc-editor.org/rfc/rfc3113.txt&url2=https://raw.githubusercontent.com/SpencerDawkins/rfc3113bis/main/draft-dawkins-iab-rfc3113bis.md&difftype=--html
 
 ## Contributing
 

@@ -11,7 +11,7 @@ date:
 consensus: true
 v: 3
 area: IAB
-workgroup: WG Working Group
+workgroup: Liaison Oversight
 keyword:
  - IAB
  - 3GPP
