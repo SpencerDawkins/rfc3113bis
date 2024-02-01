@@ -9,6 +9,7 @@ submissiontype: IAB  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
+obsoletes: 3113
 v: 3
 area: IAB
 workgroup: Liaison Oversight
