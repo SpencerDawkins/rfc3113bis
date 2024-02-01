@@ -14,10 +14,10 @@ area: IAB
 workgroup: Liaison Oversight
 keyword:
  - IAB
- - 3GPP
+ - 3GPP-IETF
  - Liaison Oversight
 venue:
-  group: 3GPP-IETF Coordination
+  group: 3GPP IETF Coordination
   type: Working Group
   mail: 3gpp-ietf-coord@ietf.org
   arch: https://www.ietf.org/mailman/listinfo/3gpp-ietf-coord

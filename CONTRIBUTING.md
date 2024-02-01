@@ -17,10 +17,9 @@ BCP 78, 79, the TLP, and the TLP rules regarding code components (e.g. being
 subject to a Simplified BSD License) in Contributions.
 ## Working Group Information
 
-Discussion of this work occurs on the [Internet Architecture Board
-Internet Engineering Task Force mailing list](mailto:iab@iab.org)
-([archive](),
-[subscribe]()).
+Discussion of this work occurs on the [3gpp-ietf-coord mailing List](mailto:3gpp-ietf-coord@ietf.org)
+([archive](https://mailarchive.ietf.org/arch/browse/3gpp-ietf-coord/),
+[subscribe](https://www.ietf.org/mailman/listinfo/3gpp-ietf-coord)).
 In addition to contributions in GitHub, you are encouraged to participate in
 discussions there.
 
