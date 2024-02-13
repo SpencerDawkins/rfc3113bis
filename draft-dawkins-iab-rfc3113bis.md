@@ -12,7 +12,7 @@ consensus: true
 obsoletes: 3113
 v: 3
 area: IAB
-workgroup: Liaison Oversight
+workgroup: IETF-3GPP
 keyword:
  - IAB
  - 3GPP-IETF
@@ -30,7 +30,13 @@ author:
     fullname: Spencer Dawkins
     organization: Tencent America LLC
     email: spencerdawkins.ietf@gmail.com
+	country: United States of America
     role: editor
+ -
+    fullname: Charles Eckel
+    organization: Cisco Systems
+    email: eckelcu@cisco.com
+	country: United States of America
 
 normative:
 
