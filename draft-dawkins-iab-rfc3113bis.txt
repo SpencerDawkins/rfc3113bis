@@ -6,7 +6,9 @@ IETF-3GPP                                                S. Dawkins, Ed.
 Internet-Draft                                       Tencent America LLC
 Obsoletes: 3113 (if approved)                                   C. Eckel
 Intended status: Informational                             Cisco Systems
-Expires: 17 August 2024                                 14 February 2024
+Expires: 24 August 2024                                       P. Schmitt
+                                           Huawei Technologies Co., Ltd.
+                                                        21 February 2024
 
 
                 3GPP-IETF Standardization Collaboration
@@ -50,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 17 August 2024.
+   This Internet-Draft will expire on 24 August 2024.
 
 Copyright Notice
 
@@ -295,3 +297,9 @@ Authors' Addresses
    Cisco Systems
    United States of America
    Email: eckelcu@cisco.com
+
+
+   Peter Schmitt
+   Huawei Technologies Co., Ltd.
+   Germany
+   Email: Peter.Schmitt@huawei.com
