@@ -37,6 +37,11 @@ author:
     organization: Cisco Systems
     email: eckelcu@cisco.com
     country: United States of America
+ -
+    fullname: Peter Schmitt
+    organization: Huawei Technologies Co., Ltd.
+    email: Peter.Schmitt@huawei.com
+    country: Germany
 
 normative:
 
