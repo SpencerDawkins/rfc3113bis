@@ -78,18 +78,13 @@ In such cases, 3GPP will take its concerns directly to the appropriate IETF work
 
 ## IETF access to 3GPP Wireless expertise
 
-The technical work in 3GPP is organized in Technical Specification Groups TSGs each with their area of responsibilities.
-TSG-RAN and TSG-GERAN are responsible for the Radio Access networks based on UTRAN and GERAN and thus the experts in the areas of the    characteristics of the physical transport.
-TSG CN is responsible for the Mobility Management and other core network protocol and functionalities.
-TSG-T is responsible for Terminal aspects and applications.
-TSG-SA is responsible for the service and system aspects including the overall architecture, security and O&M aspects.
-Contacts for the TSGs can be found on the 3GPP web-site http://www.3gpp.org/.
+The technical work in 3GPP is organized in Technical Specification Groups TSGs each with their area of responsibilities. Details  of the groups within 3GPP can  be  found at see www.3gpp.org/3gpp-groups.
 
 # Document Sharing
 
 Both 3GPP and IETF encourage the sharing of draft documents that are of mutual interest.
 
-3GPP documents are available on its official web-site (http://www.3gpp.org/) and is open to anyone.
+3GPP documents are available on its official web-site ([http://www.3gpp.org/](https://www.3gpp.org/specifications-technologies/specifications-by-series) and is open to anyone.
 IETF documents, including preliminary working documents ("Internet Drafts") are available on its web-site (http://www.ietf.org/) and various shadow    sites.
 
 IETF representatives can obtain information about the 3GPP document and web-site structures by contacting the relevant 3GPP contact points indicated at the 3GPP web-site http://www.3gpp.org/.
@@ -112,12 +107,7 @@ Relevant IETF Area Directors and 3GPP technical leadership are encouraged and au
 
 ## IETF coordination support in 3GPP
 
-An IETF rapporteur function is established in 3GPP TSG-SA.
-
-The individual(s) appointed to undertake the responsibility of this function should be the initial contact point in 3GPP for matters pertaining to the 3GPP-IETF cooperation.
-Of course, the chairman of TSG-SA can always be contacted.
-
-The 3GPP-IETF rapporteur function, therefore, is expected to work with the concerned working groups and TSGs and support the interaction between 3GPP and IETF.
+The TSG-CT chair (https://www.3gpp.org/dynareport?code=TSG-WG--CP--officials.htm) is assigned to do the coordination   from 3GPP towards IETF. The in dividual(s) appointed to undertake the responsibility of this function should be the initial contact point in 3GPP for matters pertaining to the 3GPP-IETF cooperation.
 
 ## 3GPP Liaison in IETF
 
@@ -144,7 +134,7 @@ This type of non-protocol document does not directly affect the security of the 
 
 # IANA Considerations
 
-This document has no IANA actions.
+3GPP is tracking IANA interactions via their homepage see https://www.3gpp.org/delegates-corner/delegates-corner-home/iana-v2.
 
 --- back
 
